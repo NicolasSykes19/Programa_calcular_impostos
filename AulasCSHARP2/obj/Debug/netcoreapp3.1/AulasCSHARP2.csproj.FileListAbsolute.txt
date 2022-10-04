@@ -1,0 +1,14 @@
+C:\Users\nicol\Documents\Projects\Visual Studio 2022\AulasCSHARP2\AulasCSHARP2\bin\Debug\netcoreapp3.1\AulasCSHARP2.exe
+C:\Users\nicol\Documents\Projects\Visual Studio 2022\AulasCSHARP2\AulasCSHARP2\bin\Debug\netcoreapp3.1\AulasCSHARP2.deps.json
+C:\Users\nicol\Documents\Projects\Visual Studio 2022\AulasCSHARP2\AulasCSHARP2\bin\Debug\netcoreapp3.1\AulasCSHARP2.runtimeconfig.json
+C:\Users\nicol\Documents\Projects\Visual Studio 2022\AulasCSHARP2\AulasCSHARP2\bin\Debug\netcoreapp3.1\AulasCSHARP2.runtimeconfig.dev.json
+C:\Users\nicol\Documents\Projects\Visual Studio 2022\AulasCSHARP2\AulasCSHARP2\bin\Debug\netcoreapp3.1\AulasCSHARP2.dll
+C:\Users\nicol\Documents\Projects\Visual Studio 2022\AulasCSHARP2\AulasCSHARP2\bin\Debug\netcoreapp3.1\AulasCSHARP2.pdb
+C:\Users\nicol\Documents\Projects\Visual Studio 2022\AulasCSHARP2\AulasCSHARP2\obj\Debug\netcoreapp3.1\AulasCSHARP2.csproj.AssemblyReference.cache
+C:\Users\nicol\Documents\Projects\Visual Studio 2022\AulasCSHARP2\AulasCSHARP2\obj\Debug\netcoreapp3.1\AulasCSHARP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Documents\Projects\Visual Studio 2022\AulasCSHARP2\AulasCSHARP2\obj\Debug\netcoreapp3.1\AulasCSHARP2.AssemblyInfoInputs.cache
+C:\Users\nicol\Documents\Projects\Visual Studio 2022\AulasCSHARP2\AulasCSHARP2\obj\Debug\netcoreapp3.1\AulasCSHARP2.AssemblyInfo.cs
+C:\Users\nicol\Documents\Projects\Visual Studio 2022\AulasCSHARP2\AulasCSHARP2\obj\Debug\netcoreapp3.1\AulasCSHARP2.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Documents\Projects\Visual Studio 2022\AulasCSHARP2\AulasCSHARP2\obj\Debug\netcoreapp3.1\AulasCSHARP2.dll
+C:\Users\nicol\Documents\Projects\Visual Studio 2022\AulasCSHARP2\AulasCSHARP2\obj\Debug\netcoreapp3.1\AulasCSHARP2.pdb
+C:\Users\nicol\Documents\Projects\Visual Studio 2022\AulasCSHARP2\AulasCSHARP2\obj\Debug\netcoreapp3.1\AulasCSHARP2.genruntimeconfig.cache
